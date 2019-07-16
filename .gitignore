@@ -1,0 +1,7 @@
+ToDoWeb/obj/
+Todo.Business/obj/
+Todo.Business/bin/Debug/netcoreapp3.0/Todo.Business.deps.json
+Todo.Core/obj/
+ToDo.Data/obj/
+ToDo.Data/bin/
+ToDoWeb/.vs/
